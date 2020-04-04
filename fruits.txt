@@ -1,4 +1,7 @@
 orange
 mango
+kiwi
+pear
+
 dragon fruit
 apple
